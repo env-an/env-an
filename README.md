@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @envoyer-dev
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning PHP, NodeJS, Python
+- 🌱 I’m currently learning PHP, JS, Python, Linux, Vim (Neovim),...
 - 💞️ I’m looking to collaborate on everywhere
-- 📫 How to reach me todi306@gmail.com
+- 📫 How to reach me quenmattroi@gmail.com
 
 <!---
 envoyer-dev/envoyer-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
