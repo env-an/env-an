@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @envoyer-dev
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Blockchain, AI
 - 🌱 I’m currently learning PHP, JS, Python, Linux, Vim (Neovim),...
 - 💞️ I’m looking to collaborate on everywhere
 - 📫 How to reach me quenmattroi@gmail.com
