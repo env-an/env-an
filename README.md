@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @hankido (Thien An)
-- 👀 I’m interested in Blockchain, AI
-- 🌱 I’m currently learning PHP (Laravel), JS (React, ReactNative, Electron), Python, Linux (Mint, Deepin, Budgie), Vim (Neovim),...
-- 💞️ I’m looking to collaborate on everywhere
-- 📫 How to reach me todi306@gmail.com
+### Hi there <a href="https://github.com/hankido"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning DevOps, Blockchain, AI
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/PHP or React/Express/Laravel
