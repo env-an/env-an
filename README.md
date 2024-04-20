@@ -3,4 +3,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning DevOps
-- 💬 &nbsp;Ask me about anything related to Javascript/Python/PHP or React/Laravel
+- 💬 &nbsp;Ask me about anything related to Javascript/Java/PHP or NextJS/Laravel
