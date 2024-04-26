@@ -7,4 +7,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hany-vn&theme=transparent&hide_border=true&border_radius=0&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hany-vn&theme=ocean-dark&hide_border=true&border_radius=0&card_width=800)](https://git.io/streak-stats)
