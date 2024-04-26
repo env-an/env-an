@@ -5,4 +5,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning DevOps
 - 💬 &nbsp;Ask me about anything related to Java/Javascript/PHP or NextJS/Laravel
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hany-vn&theme=dark&hide_border=true&border_radius=0&card_width=800)](https://git.io/streak-stats)
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hany-vn&theme=transparent&border_radius=0&card_width=800)](https://git.io/streak-stats)
