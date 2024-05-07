@@ -1,5 +1,3 @@
-<img align="left" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vycdev&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=304px&border_radius=10&border_color=00000000&bg_color=00000000&langs_count=10">
-
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
